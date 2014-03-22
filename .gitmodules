@@ -1,0 +1,3 @@
+[submodule "ScExtendedCalendarView"]
+	path = ScExtendedCalendarView
+	url = git://github.com/yhirano/ScExtendedCalendarView.git

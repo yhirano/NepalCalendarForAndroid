@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">nCalendar</string>
+    <string name="calendar">Calendar</string>
+    <string name="daily">Daily</string>
+    <string name="nepal_time">नेपाल समय</string>
+    <string name="local_time">स्थानीय समय</string>
+    <string name="nepal_month_year">%1$s %2$s</string>
+    
+</resources>
